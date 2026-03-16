@@ -145,7 +145,6 @@ Measures how often the signal waveform crosses the zero axis, often used for spe
 
 ---
 
-# Outputs
 
 
 
